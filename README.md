@@ -1,8 +1,7 @@
 # gostenginessl
-Gost 2012 engine OpenSSL compiled for Windows 32
+https://github.com/gost-engine/engine compiled Gost 2012 engine OpenSSL compiled for Windows 32
 
-
-Use it with Openssl 1.1.0g https://slproweb.com/products/Win32OpenSSL.html
+Use it with Win32 OpenSSL v1.1.1c https://slproweb.com/products/Win32OpenSSL.html
 
 add gost.dll to the bin dir of OpenSSL
 
